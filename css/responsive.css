@@ -1,0 +1,304 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.address {
+	text-align: center;
+}
+.header .top-right {
+	float: none;
+	text-align: center;
+}
+.header .lang-nav .lang-dropdown li a {
+	text-align: left;
+}
+.header .social {
+	float: none;
+	margin-top: 10px;
+	text-align: center;
+}	
+.hero-area .single-slider,.hero-area .welcome-text {
+	height: 540px;
+}
+.hero-area .welcome-text h1 {
+	font-size: 35px;
+}
+.hero-area .welcome-text p {
+	padding-right: 0;
+}
+.hero-area:hover button.PrevArrow {
+	left: 2px;
+}
+.hero-area:hover button.NextArrow {
+	right: 2px;
+}
+.section-title p {
+	padding: 0px 60px;
+	font-size: 15px;
+}
+.navbar-nav {
+	flex-direction: initial;
+}	
+.header .nav li {
+	margin-right: 14px;
+	position: relative;
+}
+.header .nav li {
+	margin-right: 20px;
+}
+.header .nav li a {
+	font-size: 13px;
+}
+.header .nav .dropdown {
+	width: 210px;
+}
+.why-choose .why-left {
+	display:none;
+}	
+.consultation .consult-video {
+	position: relative;
+	height: 500px;
+	width: 100%;
+	margin-top: 30px;
+}
+.project .project-nav li {
+	padding: 10px 15px;
+	margin-right: 5px;
+}
+.testimonials .single-testimonial {
+	background: #fff;
+	padding: 30px;
+	margin: 5px;
+}
+.why-choose .choose-main {
+	margin-top: 0px;
+}
+.call-to-action h2 {
+	font-size: 22px;
+	margin-bottom: 5px;
+}
+.newsletter .newsletter-inner {
+	text-align: center;
+	padding: 0 100px;
+}
+.skills .skill-image{
+	display:none;
+}
+.consultation{
+	background:#fff;
+}
+.consultation .section-title {
+	text-align: center;
+}
+.consultation .form-group.button {
+	margin-bottom: 0px;
+	text-align: center;
+}
+.project.single .project-info {
+	padding: 10px 20px 20px;
+	text-align: center;
+}
+.project.single .project-info .single-info{
+	margin-top:10px;
+}
+.project.single .project-info .single-info:last-child {
+	margin-top: 10px;
+}
+.footer .single-widget.lists .list {
+	width: 100%;
+}
+.footer .single-widget.lists li {
+	line-height: 28px;
+}
+}
+   
+@media only screen and (max-width: 767px) {
+.main-menu{
+	display:none;
+}
+.mobile-nav {
+	display: block;
+	margin-top: -36px;
+}
+.breadcrumbs {
+	text-align: center;
+	padding: 40px 0;
+}
+.breadcrumbs h2 {
+	font-size: 30px;
+}
+.header .topbar {
+	display:none;
+}
+.header .logo {
+	padding:0;
+}
+.header .header-inner {
+	padding: 15px 0;
+}
+.slicknav_btn {
+	border-radius: 3px;
+	margin-top: ;
+	margin: 8px 0 0 0;
+}
+.section-title h2 {
+	font-size: 24px;
+}
+.section-title p {
+	padding: 0px;
+	font-size: 14px;
+}	
+.header .slicknav_menu .slicknav_item a i{
+	display:none;
+}
+.slicknav_menu {
+	background: transparent;
+	margin: 0;
+	padding: 0;
+}
+.slicknav_nav {
+	background: #2A2D2F;
+	border-radius:3px;
+}
+.slicknav_menu .slicknav_menutxt {
+	text-transform:uppercase;
+	text-shadow: none;
+}
+.hero-area .single-slider,
+.hero-area .welcome-text {
+	height: 450px;
+}
+.hero-area .welcome-text h1 {
+	font-size: 22px;
+	line-height: 32PX;
+}
+.hero-area .welcome-text h1 span {
+	font-size: 16px;
+	margin-bottom: 0px;
+}
+.hero-area .welcome-text p {
+	margin: 18px 0;
+	padding: 0;
+}
+.hero-area .welcome-text.text-right p {
+	padding: 0;
+}
+.hero-area .welcome-text .btn {
+	margin-right: 10px;
+}
+.hero-area .welcome-text .btn.video {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+.why-choose .why-left {
+	display:none;
+}	
+.why-choose .single-choose {
+	padding-right: 10px;
+}
+.consultation {
+	background:#fff;
+}
+.consultation .consult-video {
+	display:none;
+}
+.project .project-hover {
+	padding: 75px 20px;
+}
+.project .project-nav {
+	display: block;
+	padding-top: 20px;
+	text-align: center;
+}
+.project .project-nav li {
+	padding: 10px 15px;
+	float:none;
+	width:100%;
+	margin: 0 0 5px 0;
+}
+.project .project-nav li:last-child{
+	margin:0;
+}
+.testimonials .single-testimonial {
+	background: #fff;
+	padding: 30px;
+	margin: 5px;
+}
+.call-to-action .call-to-main {
+	padding: 0 0px;
+}
+.call-to-action h2 {
+	font-size: 25px;
+}
+.newsletter .newsletter-inner {
+	text-align: center;
+	padding: 0 0px;
+}
+.newsletter input[type="text"] {
+	width: 280px;
+	height: 55px;
+}
+.newsletter .signup {
+	padding: 0 16px;
+}
+.skills .skill-image{
+	display:none;
+}
+.newsblog.single .content h4 a {
+	font-size: 22px;
+}
+.newsblog.single .breadcrumb {
+	margin: 0 0 25px;
+}
+.newsblog.single .social {
+	text-align: center;
+	margin-top:0px;
+}
+.newsblog.single .arrow {
+	float: none;
+	text-align: center;
+	margin-top: 10px;
+}
+.newsblog.single .single-comments .head {
+	width: 30%;
+}
+.newsblog.single .single-comments .comment-list {
+	margin-left: 0;
+}
+.newsblog.single .single-comments .body {
+	float: left;
+	width: 100%;
+}
+.newsblog.single .single-comments .comment-list .body {
+	width: 100%;
+}
+.newsblog .photo ul li img {
+	width: 86px;
+	height: 70px;
+}
+.project.single .project-info {
+	padding: 0;
+	text-align: center;
+}
+.project.single .single-content h2{
+	font-size:25px;
+}
+.project.single .project-info .single-info{
+	margin-top:10px;
+}
+.project.single .project-info .single-info:last-child {
+	margin-top: 10px;
+}
+.footer .single-widget.lists li {
+	line-height: 28px;
+}
+#contact .form {
+	bottom: 0;
+	margin-top:30px;
+}
+.map {
+	width: 100%;
+	height: 400px;
+}
+.footer .single-widget.lists li {
+	line-height: 28px;
+}
+}
