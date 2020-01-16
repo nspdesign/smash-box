@@ -615,7 +615,7 @@ input:-webkit-autofill:focus {
 	display: block;
 	background: transparent;
 	border-radius: 0px;
-	padding: 28px 0;
+	padding: 22px 0;
 	position:relative;
 }
 .header .nav li a::before {
